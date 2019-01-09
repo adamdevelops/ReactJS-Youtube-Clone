@@ -25,8 +25,6 @@ class App extends Component {
      };
 
      this.videoSearch('surfboards');
-
-
   }
 
   videoSearch(term){
